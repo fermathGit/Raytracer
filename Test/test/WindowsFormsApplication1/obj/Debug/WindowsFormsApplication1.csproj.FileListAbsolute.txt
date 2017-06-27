@@ -1,0 +1,8 @@
+D:\Git\Test\test\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Git\Test\test\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Git\Test\test\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Git\Test\test\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Git\Test\test\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Git\Test\test\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Git\Test\test\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Git\Test\test\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

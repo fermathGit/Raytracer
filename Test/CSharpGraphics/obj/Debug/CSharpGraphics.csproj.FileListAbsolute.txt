@@ -1,0 +1,10 @@
+D:\Git\Test\CSharpGraphics\bin\Debug\CSharpGraphics.exe.config
+D:\Git\Test\CSharpGraphics\bin\Debug\CSharpGraphics.exe
+D:\Git\Test\CSharpGraphics\bin\Debug\CSharpGraphics.pdb
+D:\Git\Test\CSharpGraphics\obj\Debug\CSharpGraphics.csprojResolveAssemblyReference.cache
+D:\Git\Test\CSharpGraphics\obj\Debug\CSharpGraphics.exe
+D:\Git\Test\CSharpGraphics\obj\Debug\CSharpGraphics.pdb
+D:\Git\Test\CSharpGraphics\bin\Debug\Assembly-CSharp.dll
+D:\Git\Test\CSharpGraphics\bin\Debug\UnityEngine.dll
+D:\Git\Test\CSharpGraphics\bin\Debug\Assembly-CSharp.pdb
+D:\Git\Test\CSharpGraphics\bin\Debug\UnityEngine.xml
